@@ -1,0 +1,6 @@
+{
+  "name": "Ecomma - Multi-Vendor Marketplace",
+  "description": "List. Sell. Deliver. Modern multi-vendor e-commerce marketplace connecting authentic sellers and buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
